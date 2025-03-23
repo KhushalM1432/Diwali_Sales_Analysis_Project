@@ -1,5 +1,5 @@
 # Diwali_Sales_Analysis_Project
-Data Science
+# **Data Science**
 
 # **Project: Diwali Sales Data Analysis**
 
